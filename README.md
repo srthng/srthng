@@ -29,7 +29,7 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/srthng/srthng/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/srthng/srthng/output/snake.svg" alt="Snake animation" />
 
 ###
 
