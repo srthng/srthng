@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=srthng&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=srthng&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="200" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srthng&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height="263" alt="languages graph"  />
 </div>
 
