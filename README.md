@@ -20,9 +20,9 @@
 
 ###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=srthng&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srthng&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="196" alt="languages graph"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=srthng&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srthng&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="250" alt="languages graph"  />
 </div>
 
 ###
@@ -93,3 +93,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
