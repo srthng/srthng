@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="500" src="https://i.ibb.co/Qr0jGP0/rei-Astronaut.png"  />
+<img align="right" height="480" src="https://i.ibb.co/Qr0jGP0/rei-Astronaut.png"  />
 
 ###
 
