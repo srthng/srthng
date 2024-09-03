@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co/jHt8J5H/reiLuz.png"  />
+  <img height="200" src="https://ibb.co/52Z1K92"  />
 </div>
 
 ###
