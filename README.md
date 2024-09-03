@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://ibb.co/52Z1K92/reiLuz.png"  />
+  <img height="200" src="img/reiLuz.png"  />
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="480" src="https://i.ibb.co/Qr0jGP0/rei-Astronaut.png"  />
+<img align="right" height="480" src="img/reiSpace.png"  />
 
 ###
 
