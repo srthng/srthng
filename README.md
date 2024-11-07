@@ -27,12 +27,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/srthng/srthng/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">I code this</h2>
 
 ###
